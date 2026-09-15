@@ -193,7 +193,7 @@ ISO 14443-4 / DESFire (e.g., a Proxmark3 for testing, or a commercial reader
 like an ACS ACR122U, iDynamo-compatible readers, or a proper PN532-based setup
 with a DESFire library).
 
-### 2. 🔧 Interim Mitigation — If You're Stuck with MIFARE Classic + RC522
+### 2.  Interim Mitigation — If You're Stuck with MIFARE Classic + RC522
 
 These measures **reduce** exposure but **do not fix** MIFARE Classic's
 fundamental weaknesses (see [Crypto-1 attacks](#common-mitigations-that-do-not-work)):
@@ -291,17 +291,11 @@ access-control laws). The authors assume no liability for misuse.
 ```
 rfid-magic-writer/
 ├── rfid_magic_writer.py   # Main tool (write guard enforced)
-├── rfid_protection.py     # Protection & safety module
-├── README.md
-└── LICENSE
+└── README.md
 ```
-
-##  License
-
-MIT — free to use and modify. See [LICENSE](LICENSE).
 
 ##  Credits
 
 - [MFRC522 Python library](https://github.com/pimylifeup/MFRC522-python)
 - [miguelbalboa/rfid (Arduino)](https://github.com/miguelbalboa/rfid)
-- The Proxmark3 community for magic-card research
+
