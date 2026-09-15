@@ -1,7 +1,6 @@
 #  RFID Magic Card UID Reader & Writer
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/platform-Raspberry%20Pi-red.svg)](https://www.raspberrypi.org/)
 
 > A professional-grade Python tool for reading and rewriting UIDs on MIFARE Classic
