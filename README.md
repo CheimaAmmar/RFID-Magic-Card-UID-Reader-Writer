@@ -9,7 +9,7 @@
 > research, access-control testing, and RFID education.
 >
 >  **This tool doubles as a demonstration of why UID-only access control is
-> broken.** See [🛡️ Defending Against This Attack](#️-defending-against-this-attack)
+> broken.** See [ Defending Against This Attack](#️-defending-against-this-attack)
 > for real countermeasures.
 
 ---
